@@ -3,13 +3,7 @@
 ---
 # TryHackMe
 ---
-
-## Link
+[Official Site](https://tryhackme.com/)
+## Content
 ---
-
-## Contents
----
-
-- [[Metasploit]]
-- 
-
+- [Metasploit](Metasploit/Metasploit.md)
