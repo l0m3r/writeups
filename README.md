@@ -1,2 +1,2 @@
-# writeups
-my writeups about smth
+# Writeups
+My writeups about smth
