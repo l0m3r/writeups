@@ -2,6 +2,10 @@
 #main
 
 ---
+# Writeups
+---
+
 # Ссылки
 ---
-- [[THM/THM]]
+- [THM](THM/THM.md)
+- 
