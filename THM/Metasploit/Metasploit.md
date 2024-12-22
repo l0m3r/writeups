@@ -109,11 +109,14 @@ unsetg
 systemctl start postgresql
 msfdb init
 ```
-- Подключение и создание рабочего пространства;
+- Подключение и создание рабочего пространства.
 ```bash
 db_status
 workspace -a tryhackme
 ```
+
+#### ****
+
 ## **Answer the questions**
 ### **Metasploit: Introduction**
 #### **Task 2**
