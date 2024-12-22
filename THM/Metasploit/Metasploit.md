@@ -30,3 +30,11 @@
 ```
 /opt/metasploit-framework/embedded/framework/modules# tree -L 1 exploits/
 ```
+- **NOPs** -  (No OPeration) ничего не делают, в буквальном смысле. В семействе процессоров Intel x86 они обозначаются 0x90, после чего процессор ничего не делает в течение одного цикла. Они часто используются в качестве буфера для достижения постоянного размера полезной нагрузки;
+```bash
+/opt/metasploit-framework/embedded/framework/modules# tree -L 1 nops/
+```
+- **Payloads** - код, который будет запущен на целевой системе. Эксплойты используют уязвимость целевой системы, но для достижения желаемого нужна полезная нагрузка (получение shell'a, загрузка вредоносного ПО или бэкдора);
+```bash
+/opt/metasploit-framework/embedded/framework/modules# tree -L 1 payloads/
+```
