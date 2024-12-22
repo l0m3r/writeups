@@ -97,7 +97,9 @@ unsetg
 - **SESSION** - каждое соединение, установленное с целевой системой с помощью Metasploit.
 
 ### **Использование**
-#### **Сканирование:**
+- Сканирование (portscan);
+- UDP service Identification (udp_sweep);
+- SMB Scans (smb_version или smb_enumshares);
 - 
 
 
