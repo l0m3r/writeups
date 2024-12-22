@@ -99,8 +99,7 @@ unsetg
 ### **Использование**
 - Сканирование (portscan);
 - UDP service Identification (udp_sweep);
-- SMB Scans (smb_version или smb_enumshares);
-- 
+- SMB Scans (smb_version или smb_enumshares).
 
 
 ## **Answer the questions**
@@ -138,3 +137,8 @@ unsetg
 	exploit
 
 ### **Metasploit:  Exploitation**
+#### **Task 2**
+
+#### **Task 3**
+
+#### **Task 4**
