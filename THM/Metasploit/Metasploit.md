@@ -97,11 +97,23 @@ unsetg
 - **SESSION** - каждое соединение, установленное с целевой системой с помощью Metasploit.
 
 ### **Использование**
-- Сканирование (portscan);
+#### **Сканирование:**
+- Portscan;
 - UDP service Identification (udp_sweep);
 - SMB Scans (smb_version или smb_enumshares).
 
-
+#### **Работа с БД:**
+В Metasploit есть функция базы данных, которая упрощает управление проектом и позволяет избежать возможной путаницы при создании значений параметров.
+- Инициализация:
+```bash
+systemctl start postgresql
+msfdb init
+```
+- Подключение и создание рабочего пространства;
+```bash
+db_status
+workspace -a tryhackme
+```
 ## **Answer the questions**
 ### **Metasploit: Introduction**
 #### **Task 2**
@@ -138,6 +150,17 @@ unsetg
 
 ### **Metasploit:  Exploitation**
 #### **Task 2**
+- How many ports are open on the target system?
+	5
+
+- Using the relevant scanner, what NetBIOS name can you see?
+	ACME IT SUPPORT
+
+- What is running on port 8000?
+	webfs/1.21
+
+- What is the "penny" user's SMB password? Use the wordlist mentioned in the previous task.
+	leo1234
 
 #### **Task 3**
 
