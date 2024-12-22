@@ -2,7 +2,7 @@
 Фреймворк для эксплойтов, набор инструментов с открытым исходным кодом, используемых для анализа сетей, выявления уязвимостей, разработки полезной нагрузки и выполнения кода эксплойта на удаленных целевых машинах.
 
 ## **Link**
-- [Metasplit](https://www.metasploit.com/)
+- [Metasploit](https://www.metasploit.com/)
 - [Rooms](https://tryhackme.com/r/module/metasploit)
 
 ## **Contents**
@@ -96,8 +96,12 @@ unsetg
 - **LPORT** - локальный порт;
 - **SESSION** - каждое соединение, установленное с целевой системой с помощью Metasploit.
 
+### **Использование**
+#### **Заголовок**
+
 ## **Answer the questions**
-### **Task 2**
+### **Metasploit: Introduction**
+#### **Task 2**
 - What is the name of the code taking advantage of a flaw on the target system?  
 	Exploit
 
@@ -110,14 +114,14 @@ unsetg
 - Is "windows/x64/pingback_reverse_tcp" among singles or staged payload?  
 	Singles
 
-### **Task 3**
+#### **Task 3**
 - How would you search for a module related to Apache?
 	search apache
 
 - Who provided the auxiliary/scanner/ssh/ssh_login module?
 	todb
 
-### **Task 4**
+#### **Task 4**
 - How would you set the LPORT value to 6666?
 	set LPORT 6666
 - How would you set the global value for RHOSTS  to 10.10.19.23 ?
@@ -128,3 +132,5 @@ unsetg
 
 - What command do you use to proceed with the exploitation phase?
 	exploit
+
+### **Metasploit:  Exploitation**
