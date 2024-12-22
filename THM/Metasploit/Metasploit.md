@@ -165,6 +165,8 @@ workspace -a tryhackme
 - What is the "penny" user's SMB password? Use the wordlist mentioned in the previous task.
 	leo1234
 
-#### **Task 3**
+#### **Task 4**
+- Who wrote the module that allows us to check SMTP servers for open relay?
+	Campbell Murray
 
 #### **Task 4**
