@@ -38,3 +38,7 @@
 ```bash
 /opt/metasploit-framework/embedded/framework/modules# tree -L 1 payloads/
 ```
+- **Post** - полезны на заключительном этапе процесса тестирования на проникновение.
+```bash
+/opt/metasploit-framework/embedded/framework/modules# tree -L 1 post/
+```
