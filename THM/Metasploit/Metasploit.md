@@ -2,7 +2,8 @@
 Фреймворк для эксплойтов, набор инструментов с открытым исходным кодом, используемых для анализа сетей, выявления уязвимостей, разработки полезной нагрузки и выполнения кода эксплойта на удаленных целевых машинах.
 
 ## **Link**
-[Rooms](https://tryhackme.com/r/module/metasploit)
+- [Metasplit](https://www.metasploit.com/)
+- [Rooms](https://tryhackme.com/r/module/metasploit)
 
 ## **Contents**
 ### **Введение**
