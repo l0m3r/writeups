@@ -53,3 +53,18 @@ msfconsole
 ```bash
 use exploit/windows/smb/ms17_010_eternalblue 
 ```
+- Выход в косноль;
+```bash
+back 
+```
+- Информация об эксплойте (можно добавить имя модуля);
+```bash
+info
+show options
+show payloads
+```
+- Поиск;
+```bash
+search 
+```
+- 
