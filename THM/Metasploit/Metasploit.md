@@ -81,7 +81,7 @@ sessions
 sessions -i
 ```
 
-#### Часто используемые переменные:
+#### **Часто используемые переменные:**
 - Задать или убрать переменную для конкретного или глобального параметра;
 ```bash
 set
@@ -95,3 +95,36 @@ unsetg
 - **LHOST** - локальный хост;
 - **LPORT** - локальный порт;
 - **SESSION** - каждое соединение, установленное с целевой системой с помощью Metasploit.
+
+## **Answer the questions**
+### **Task 2**
+- What is the name of the code taking advantage of a flaw on the target system?  
+	Exploit
+
+- What is the name of the code that runs on the target system to achieve the attacker's goal?
+	Payload
+
+- What are self-contained payloads called?  
+	Singles
+
+- Is "windows/x64/pingback_reverse_tcp" among singles or staged payload?  
+	Singles
+
+### **Task 3**
+- How would you search for a module related to Apache?
+	search apache
+
+- Who provided the auxiliary/scanner/ssh/ssh_login module?
+	todb
+
+### **Task 4**
+- How would you set the LPORT value to 6666?
+	set LPORT 6666
+- How would you set the global value for RHOSTS  to 10.10.19.23 ?
+	setg RHOSTS 10.10.19.23
+
+- What command would you use to clear a set payload?
+	unset PAYLOAD
+
+- What command do you use to proceed with the exploitation phase?
+	exploit
