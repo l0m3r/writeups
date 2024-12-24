@@ -170,4 +170,13 @@ workspace -a tryhackme
 	Campbell Murray
 
 #### **Task 5**
-- 
+- What is the content of the flag.txt file?
+	 THM-5455554845
+
+- What is the NTLM hash of the password of the user "pirate"?
+	 8ce9a3ebd1647fcc5e04025019f4b875
+#### **Task 6**
+- What is the other user's password hash?	
+- \$6\$Sy0NNIXw$SJ27WltHI89hwM5UxqVGiXidj94QFRm2Ynp9p9kxgVbjrmtMez9EqXoDWtcQd8rf0tjc77hBFbWxjGmQCTbep0
+
+
