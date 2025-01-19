@@ -1,7 +1,7 @@
 # Writeups
-Репозиторий с различными райтапами.
+Repo with smth...
 
-## Ссылки
+## Links
 - [THM](THM/THM.md)
 - [PEN-200](PEN-200/PEN-200.md)
 
