@@ -1,4 +1,4 @@
-**# UGRA_CTF**
+# **UGRA_CTF**
 Link to [course](https://course.ugractf.ru)
 
 ## **Keys**
