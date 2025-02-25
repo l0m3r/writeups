@@ -9,3 +9,5 @@ Link to [course](https://course.ugractf.ru)
 
 **Задача B.** Нужно открыть изображение из таска с помощью `Stegsolve`. Далее листать срезы с помощью кнопки > внизу. Отсканировать найденный QR-код. (ugra_distant_places_are_distant_7eee394b7)
 
+**Задача С.**
+
