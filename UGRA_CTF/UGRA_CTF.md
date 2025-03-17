@@ -30,3 +30,6 @@ Link to [course](https://course.ugractf.ru)
 
 **Задача C. Загрузка** Открыть скачанный дамп с помощью `wireshark`. Меню File - Export Objects - HTTP. Ключ находится в картинке.
 (`ugra_this_is_icon_96a7518c8a4357194f00732f265`)
+
+**Задача D. Сетевая атака** Открыть скачанный дамп с помощью `wireshark`. Меню File - Export Objects - HTTP, выгрузить все, пробежаться по страницам и собрать ключ.
+(`ugra_pcap_with_trash_6e2cc2999b78cc7`)
