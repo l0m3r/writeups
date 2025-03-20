@@ -39,3 +39,9 @@ Link to [course](https://course.ugractf.ru)
 
 **Задача E. Энтерпрайз I** Скачать архив, используя `bunzip` распаковать архив memory_dump.gz.bz2. `zcat memory_dump.gz| fgrep -za ugra`.
 (флаг вытащить не удалось, т.к. долго парсится архив)
+
+### **03. Криптография**
+
+**Задача А. Не Цезарь** Шифр Цезаря или ROT8
+(`ugra_know_your_history_a6ee3b9de4`)
+
