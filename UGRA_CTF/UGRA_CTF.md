@@ -45,3 +45,6 @@ Link to [course](https://course.ugractf.ru)
 **Задача А. Не Цезарь** Шифр Цезаря или ROT8
 (`ugra_know_your_history_a6ee3b9de4`)
 
+**Задача B. Золотая таска** Можно использовать [CyberChef](https://gchq.github.io/CyberChef/). Перевести флаг `to base` с параметром 16, затем `to hex`.
+(`ugra_wow_dec_is_the_flag_3177d95780`)
+
