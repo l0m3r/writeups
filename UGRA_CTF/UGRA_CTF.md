@@ -45,6 +45,26 @@ Link to [course](https://course.ugractf.ru)
 **Задача А. Не Цезарь** Шифр Цезаря или ROT8
 (`ugra_know_your_history_a6ee3b9de4`)
 
-**Задача B. Золотая таска** Можно использовать [CyberChef](https://gchq.github.io/CyberChef/). Перевести флаг `to base` с параметром 16, затем `to hex`.
+**Задача B. Золотая таска** [CyberChef](https://gchq.github.io/CyberChef/). Перевести флаг `to base` с параметром 16, затем `to hex`.
 (`ugra_wow_dec_is_the_flag_3177d95780`)
 
+**Задача C. Вращайте барабан** `Excel`. Распределить все символы начиная с `u`. Далее шаг символов для флага, 1, 5, 6 ... 67.
+Использовать следующие выражения для подсчета флага:
+1. `=ЕСЛИ(D1+C2>64; D1+C2-64;D1+C2)`
+2. `="A"&D1`
+3. `=ДВССЫЛ(E1)`
+4. `=СЦЕП(F1:F64)`
+Все что будет после точки можно убрать, т.к. точка не является частью флага.
+(`ugra_let_this_wheel_move_on_032c6c19cbf0`)
+
+**Задача D. Одна беда хорошо…** [CyberChef](https://gchq.github.io/CyberChef/). Перевести флаг `from hex`. Добавить `XOR Brute Force` с параметром crib - ugra_ и key length - 2.
+(`ugra_prepare_for_trouble_f345fd1059`)
+**Задача E. Ягнятник** [WolframAlpha](https://www.wolframalpha.com/):
+1. n,c,e - дано
+2. `n = p * q (factorize n)`
+3. `φ = (p-1)*(q-1)`
+4. `d — это обратное к e по модулю φ (inverse e mod φ)`
+5. `answer = c^d mod n`
+Далее, расшифровать ключ по аналогии с Задачей B.
+
+(`ugra_rsa_dbf95`)
