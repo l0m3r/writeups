@@ -96,5 +96,5 @@ Link to [course](https://course.ugractf.ru)
 3. `φ = (p-1)*(q-1)`
 4. `d — это обратное к e по модулю φ (inverse e mod φ)`
 5. `answer = c^d mod n`
-Далее, расшифровать ключ по аналогии с Задачей B.
+6. Расшифровать ключ по аналогии с Задачей B.
 (`ugra_rsa_dbf95`)
